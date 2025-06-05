@@ -1,1 +1,1 @@
-print("First py")
+print(12/5)

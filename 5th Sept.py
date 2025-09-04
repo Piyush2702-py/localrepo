@@ -1,0 +1,1 @@
+print("Mid-sem begins ")

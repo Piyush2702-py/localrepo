@@ -1,1 +1,1 @@
-print("Aug begins")
+print("Aug ")

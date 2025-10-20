@@ -1,0 +1,1 @@
+print("Diwali 2025")

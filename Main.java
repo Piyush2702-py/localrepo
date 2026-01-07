@@ -16,7 +16,6 @@ public class Main
     {
         Scanner sc=new Scanner(System.in);
         Rectangle box1=new Rectangle();
-
-        
+        System.out.println("Hello");
     }
 }

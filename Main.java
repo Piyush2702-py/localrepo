@@ -1,3 +1,4 @@
+import java.nio.channels.Pipe.SourceChannel;
 import java.util.Scanner;
 class Rectangle
 {
@@ -16,6 +17,11 @@ public class Main
     {
         Scanner sc=new Scanner(System.in);
         Rectangle box1=new Rectangle();
-        System.out.println("Hello");
+        System.out.print("Enter the length of rectangle: ");
+        box1.length=sc.nextInt();
+        System.out.println("Enter the breadth of rectangle: ");
+        box1.breadth=sc.nextInt();
+        box1.calculate();
+
     }
 }

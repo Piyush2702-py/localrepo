@@ -5,5 +5,6 @@ public class Java
         System.out.println("Hello Java");
         System.out.println("14th Jan 2026");
         System.out.println("16th Jan 2026");
+        System.out.println("17th Jan Saturday 2026");
     }
 }

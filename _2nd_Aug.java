@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-class _2nd_Aug
-{
+class _2nd_Aug{
 static int count = 0;
 	
 _2nd_Aug(){

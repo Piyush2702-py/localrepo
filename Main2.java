@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Plate {
+class Plate{
     double length, width;
 
     Plate() {

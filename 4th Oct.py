@@ -1,1 +1,0 @@
-print("Dashain 2082")

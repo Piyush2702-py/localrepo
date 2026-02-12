@@ -30,7 +30,7 @@ class Plastic3D extends Plastic2D {
     }
 }
 
-public class PlasticDemo {
+public class _5th_Aug{
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
 

@@ -1,1 +1,0 @@
-print("Mid-sem begins ")

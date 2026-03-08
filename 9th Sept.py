@@ -1,1 +1,0 @@
-print("Scientific and Technical writing")

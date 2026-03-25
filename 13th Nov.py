@@ -1,1 +1,0 @@
-print("Exam end semester")

@@ -1,1 +1,0 @@
-print("Python AUg 2025")

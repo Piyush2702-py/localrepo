@@ -40,7 +40,7 @@ class Bike extends Vehicle {
     }
 }
 
-public class Main {
+public class VehicleJava{
     public static void main(String[] args) {
         Car c = new Car("City", "Honda", "Petrol");
         Bike b = new Bike("Apache", "TVS", "Petrol");

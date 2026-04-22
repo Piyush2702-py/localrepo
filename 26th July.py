@@ -1,1 +1,0 @@
-print("Fish Aqua tech")
